@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExTester", "RegExTester\RegExTester.csproj", "{F6E00FB6-2384-407D-8773-53A0CA70035F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{1491A04F-CEB6-4106-9277-FB584205D9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E00FB6-2384-407D-8773-53A0CA70035F}.Debug|x86.ActiveCfg = Debug|x86
+		{F6E00FB6-2384-407D-8773-53A0CA70035F}.Debug|x86.Build.0 = Debug|x86
+		{F6E00FB6-2384-407D-8773-53A0CA70035F}.Release|x86.ActiveCfg = Release|x86
+		{F6E00FB6-2384-407D-8773-53A0CA70035F}.Release|x86.Build.0 = Release|x86
+		{1491A04F-CEB6-4106-9277-FB584205D9FA}.Debug|x86.ActiveCfg = Debug
+		{1491A04F-CEB6-4106-9277-FB584205D9FA}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
